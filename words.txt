@@ -1,0 +1,7 @@
+game
+python
+hangman
+phone
+computer
+house
+bedroom
