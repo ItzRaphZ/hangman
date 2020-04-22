@@ -5,3 +5,7 @@ phone
 computer
 house
 bedroom
+powerful
+turtle
+history
+strawberry
